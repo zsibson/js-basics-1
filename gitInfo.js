@@ -74,4 +74,4 @@ const gitCommitCode = `git commit -m "first commit"`
     It should be a string containing your best definition of what 'git push' does.
 */
 
-const gitPushDefinition = "Git push is what uploads your local repo to a remote repo like github.";
+const gitPushDefinition = "Git push is what uploads your local repo to a remote repo like github."; 
