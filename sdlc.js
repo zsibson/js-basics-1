@@ -36,7 +36,7 @@ const analysisOfRequirements = "This is the step in which a team determines what
 
 const design = "This step is very self explanitory. It is the process of transforming the user requirements into a more user friendly form.";
 
-const implementation = "Implementation is when software undergoes a round of testing to validate it and turn it into something viable. ";
+const implementation = "Implementation is when software undergoes a round of testing to validate it and turn it into something viable.";
 
 const testingAndIntegration = "Testing and Integration is where the software is tested on many different pieces of hardware."
 
